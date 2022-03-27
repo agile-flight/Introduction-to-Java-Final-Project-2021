@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=CopyOfGunjan
+comment1.params=g
+comment1.target=Draw(java.awt.Graphics)
+comment2.params=args
+comment2.target=void\ main(java.lang.String[])
+comment3.params=
+comment3.target=void\ go()
+comment4.params=g\ mouse\ UpButton\ DownButton\ RightButton\ LeftButton\ mouseClicked
+comment4.target=void\ HUD(java.awt.Graphics,\ int[],\ boolean,\ boolean,\ boolean,\ boolean,\ boolean)
+comment5.params=
+comment5.target=int[][]\ getPlatforms()
+comment6.params=g\ deaths\ infinite\ score
+comment6.target=void\ endGame(java.awt.Graphics,\ int,\ boolean,\ int)
+comment7.params=stageNumber
+comment7.target=int[][]\ getEnemies(int)
+comment8.params=g\ x1\ y1\ w1\ h1\ x2\ y2\ w2\ h2
+comment8.target=boolean\ collisionDetection(java.awt.Graphics,\ int,\ int,\ int,\ int,\ int,\ int,\ int,\ int)
+numComments=9
